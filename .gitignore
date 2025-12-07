@@ -1,0 +1,14 @@
+# Ignore datasets
+uvg/
+*.yuv
+*.7z
+*.png
+
+# Ignore docker crap
+*.img
+*.tar
+*.zip
+
+# Ignore python cache
+__pycache__/
+*.pyc
